@@ -12,6 +12,6 @@
 ---
 
 ### Навигация по предметам
-- [Предмет 1](courses/intro/subjects/subject_1.md)
-- [Предмет 2](courses/intro/subjects/subject_2.md) 
+- [Предмет 1](intro/subjects/subject_1.md)
+- [Предмет 2](intro/subjects/subject_2.md) 
  
