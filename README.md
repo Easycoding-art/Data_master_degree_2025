@@ -25,12 +25,12 @@
 ## Навигация по курсам
 
 *   [**Введение**](courses\intro\course.md)
-    *   [**Data Engineering(DE)**](courses\de\course.md)
-        *   [**Продвинутый DE**](courses\advanced_de\course.md)
-    *   [**Data Science(DS)**](courses\ds\course.md)
-        *   [**Machine Learning(ML)**](courses\ml\course.md)
-        *   [**Computer Vision(CV)**](courses\cv\course.md)
-        *   [**Natural Language Processing(NLP)**](courses\nlp\course.md)
+    *   [**Data Engineering(DE)**](courses/de/course.md)
+        *   [**Продвинутый DE**](courses/advanced_de/course.md)
+    *   [**Data Science(DS)**](courses/ds/course.md)
+        *   [**Machine Learning(ML)**](courses/ml/course.md)
+        *   [**Computer Vision(CV)**](courses/cv/course.md)
+        *   [**Natural Language Processing(NLP)**](courses/nlp/course.md)
 
 ---
 
