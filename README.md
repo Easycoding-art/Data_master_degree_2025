@@ -24,7 +24,7 @@
 
 ## Навигация по курсам
 
-*   [**Введение**](courses\intro\course.md)
+*   [**Введение**](courses/intro/course.md)
     *   [**Data Engineering(DE)**](courses/de/course.md)
         *   [**Продвинутый DE**](courses/advanced_de/course.md)
     *   [**Data Science(DS)**](courses/ds/course.md)
